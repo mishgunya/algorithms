@@ -1,0 +1,16 @@
+C:\C#\algorithms\algorithms\algorithms\bin\Debug\net5.0\algorithms.exe
+C:\C#\algorithms\algorithms\algorithms\bin\Debug\net5.0\algorithms.deps.json
+C:\C#\algorithms\algorithms\algorithms\bin\Debug\net5.0\algorithms.runtimeconfig.json
+C:\C#\algorithms\algorithms\algorithms\bin\Debug\net5.0\algorithms.runtimeconfig.dev.json
+C:\C#\algorithms\algorithms\algorithms\bin\Debug\net5.0\algorithms.dll
+C:\C#\algorithms\algorithms\algorithms\bin\Debug\net5.0\ref\algorithms.dll
+C:\C#\algorithms\algorithms\algorithms\bin\Debug\net5.0\algorithms.pdb
+C:\C#\algorithms\algorithms\algorithms\obj\Debug\net5.0\algorithms.csproj.AssemblyReference.cache
+C:\C#\algorithms\algorithms\algorithms\obj\Debug\net5.0\algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\algorithms\algorithms\algorithms\obj\Debug\net5.0\algorithms.AssemblyInfoInputs.cache
+C:\C#\algorithms\algorithms\algorithms\obj\Debug\net5.0\algorithms.AssemblyInfo.cs
+C:\C#\algorithms\algorithms\algorithms\obj\Debug\net5.0\algorithms.csproj.CoreCompileInputs.cache
+C:\C#\algorithms\algorithms\algorithms\obj\Debug\net5.0\algorithms.dll
+C:\C#\algorithms\algorithms\algorithms\obj\Debug\net5.0\ref\algorithms.dll
+C:\C#\algorithms\algorithms\algorithms\obj\Debug\net5.0\algorithms.pdb
+C:\C#\algorithms\algorithms\algorithms\obj\Debug\net5.0\algorithms.genruntimeconfig.cache
